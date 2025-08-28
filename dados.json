@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "cpf": 12345678900,
+        "nome": "Kurt",
+        "sobrenome": "Cobain",
+        "cidade": "Washington",
+        "pais": "EUA",
+        "link": "https://nirvana.com",
+        "imagem": "<img src='https://raw.githubusercontent.com/RenatoFalcao1208/minhaAPI/main/Nirvana.png' width='200px'>"
+    },
+    {
+        "id": 2,
+        "cpf": 98765432100,
+        "nome": "Eloy",
+        "sobrenome": "Casagrande",
+        "cidade": "Santo Ándre",
+        "pais": "Brasil",
+        "link": "https://slipknot.com",
+        "imagem": "<img src='https://raw.githubusercontent.com/RenatoFalcao1208/minhaAPI/main/slipknot.png' width='200px'>"
+    },
+    {
+        "id": 3,
+        "cpf": 21212121200,
+        "nome": "Ozzy",
+        "sobrenome": "Osbourne",
+        "cidade": "Marston Green",
+        "pais": "Inglaterra",
+        "link": "https://blacksabbath.com",
+        "imagem": "<img src='https://raw.githubusercontent.com/RenatoFalcao1208/minhaAPI/main/blackSabbath.png' width='200px'>"
+    },
+    {
+        "id": 4,
+        "cpf": 12121212100,
+        "nome": "Fred",
+        "sobrenome": "Durst",
+        "cidade": "Flórida",
+        "pais": "EUA",
+        "link": "https://limpbizkit.com",
+        "imagem": "<img src='https://raw.githubusercontent.com/RenatoFalcao1208/minhaAPI/main/limpBizkit.png' width='200px'>"
+    },
+    {
+        "id": 5,
+        "cpf": 98765678900,
+        "nome": "Serj",
+        "sobrenome": "Tankian",
+        "cidade": "Beirute",
+        "pais": "Líbano",
+        "link": "https://systemofadown.com",
+        "imagem": "<img src='https://raw.githubusercontent.com/RenatoFalcao1208/minhaAPI/main/systemofaDown.png' width='200px'>"
+    },
+    {
+        "id": 6,
+        "cpf": 12345432100,
+        "nome": "Saul",
+        "sobrenome": "Hudson",
+        "cidade": "Hampstead",
+        "pais": "Inglaterra",
+        "link": "https://gunsnroses.com",
+        "imagem": "<img src='https://raw.githubusercontent.com/RenatoFalcao1208/minhaAPI/main/gunsnroses.png' width='200px'>"
+    },
+    {
+        "id": 7,
+        "cpf": 54321234500,
+        "nome": "Brian",
+        "sobrenome": " Johnson",
+        "cidade": "Dunston",
+        "pais": "Inglaterra",
+        "link": "https://www.acdc.com/tour",
+        "imagem": "<img src='https://raw.githubusercontent.com/RenatoFalcao1208/minhaAPI/main/acdc.png' width='200px'>"
+    },
+    {
+        "id": 8,
+        "cpf": 56789876500,
+        "nome": "Matt",
+        "sobrenome": "Walst",
+        "cidade": "Ontário",
+        "pais": "Canadá",
+        "link": "https://threedaysgrace.com",
+        "imagem": "<img src='https://raw.githubusercontent.com/RenatoFalcao1208/minhaAPI/main/threedaysgrace.png' width='200px'>"
+    },
+    {
+        "id": 9,
+        "cpf": 23232323200,
+        "nome": "Alex" ,
+        "sobrenome": "Turner" ,
+        "cidade": "Sheffield" ,
+        "pais": "Inglaterra",
+        "link": "https://articmonkeys.com",
+        "imagem": "<img src='https://raw.githubusercontent.com/RenatoFalcao1208/minhaAPI/main/articmonkeys.png' width='200px'>"
+    },
+    {
+        "id": 10,
+        "cpf": 32323232300,
+        "nome": "Chester" ,
+        "sobrenome": "Bennington" ,
+        "cidade": "Califórnia" ,
+        "pais": "EUA",
+        "link": "https://tameimpala.com",
+        "imagem": "<img src='https://raw.githubusercontent.com/RenatoFalcao1208/minhaAPI/main/linkinPark.png' width='200px'>"
+    }
+]
